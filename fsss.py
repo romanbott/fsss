@@ -223,7 +223,7 @@ class SimuladorFairShare:
             prom_espera = datos["espera"] / datos["cantidad"]
             prom_retorno = datos["retorno"] / datos["cantidad"]
             print(
-                f"{grupo} | {prom_resp:>9.2f} | {prom_espera:>9.2f} | {prom_retorno:>9.2f}"
+                f"{grupo:>5} | {prom_resp:>9.2f} | {prom_espera:>9.2f} | {prom_retorno:>9.2f}"
             )
         print("=" * 55 + "\n")
 
