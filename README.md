@@ -57,4 +57,6 @@ Grupo | Respuesta |    Espera |   Retorno
 =======================================================
 ```
 
-![Diagrama de Gannt](ejemplo/gantt.png)
+![Fragmento del diagrama de Gannt](ejemplo/gannt.png)
+
+![Diagrama de Gannt completo](ejemplo/gannt_completo.png)
